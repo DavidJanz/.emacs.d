@@ -2,3 +2,4 @@ elpa/*
 auto-save-list/*
 places
 ido.last
+smex-items

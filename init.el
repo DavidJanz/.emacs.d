@@ -47,6 +47,9 @@
 ;; make copy and paste use xsel
 (load-file "~/.emacs.d/copypaste.el")
 
+;; load ido-mode for buffer and file opening
+(load-file "~/.emacs.d/ido-settings.el")
+
 ;; disable lockfiles .#file# etc
 (setq create-lockfiles nil)
 
